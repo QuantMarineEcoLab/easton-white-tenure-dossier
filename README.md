@@ -4,5 +4,5 @@ In the spirit of transparency and openness, this repository contains file relate
 
 I've included most of my tenure package in this repository. In a few cases, such as reviews from my chair/dean and student comments on courses, I've decided not to make those public. At my university, we place documents within a folder structure as opposed to compiling a single document. 
 
-!(Tenure folder)[tenure_folder.jpg]
+![Tenure folder](tenure_folder.jpg)
 
